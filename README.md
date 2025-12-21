@@ -20,3 +20,8 @@ This repository contains my hands-on practice while learning Pandas for Data Ana
 ## Status
 Learning in progress 🚀
 
+## Progress Update
+- Day 3: Pandas Series & DataFrame
+- Day 4: Data Cleaning (missing values, duplicates, sorting)
+- Day 5: Filtering & GroupBy with aggregations
+
