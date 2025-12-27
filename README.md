@@ -26,4 +26,5 @@ Learning in progress 🚀
 - Day 5: Filtering & GroupBy
 - Day 6: Merge & Join
 - Day 7: Dates & Strings
+- Day 8: Data Visualization (bar, line, histogram)
 
