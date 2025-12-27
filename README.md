@@ -22,7 +22,8 @@ Learning in progress 🚀
 
 ## Progress Update
 - Day 3: Pandas Series & DataFrame
-- Day 4: Data Cleaning (missing values, duplicates, sorting)
-- Day 5: Filtering & GroupBy with aggregations
+- Day 4: Data Cleaning
+- Day 5: Filtering & GroupBy
 - Day 6: Merge & Join
+- Day 7: Dates & Strings
 
